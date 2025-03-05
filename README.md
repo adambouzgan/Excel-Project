@@ -1,6 +1,8 @@
 <img width="50" alt="Screenshot 2025-03-05 at 07 38 04" src="https://github.com/user-attachments/assets/9661612c-37ea-4a50-a17b-25601a8b7a94" />Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
 
-# Excel-Project
+## Excel-Project
+
+# Data Manipulation
 
 * In the sheet ‘retail_sales_dataset’ add all available data between columns A – H into a ‘table’
 
@@ -12,6 +14,7 @@
 
 <img width="291" alt="Screenshot 2025-03-03 at 09 01 38" src="https://github.com/user-attachments/assets/f5e3cfd7-d8b7-4b84-a4b9-3f1c8c15fae0" />
 
+# Data Visualision
 * Objectives: create charts to visualise data in Microsoft Excel.
 
 Part 1: Creating a Line chart
@@ -26,6 +29,8 @@ presenting relationships, trends, and inferences that cannot always be clearly d
 
 <img width="362" alt="Screenshot 2025-03-03 at 09 04 28" src="https://github.com/user-attachments/assets/1975f036-8dc1-49bd-821f-9ee9a4500e2f" />
 
+# Data Analysis
+
 ﻿﻿﻿* Apply filter and sorting to show the best students in each subject.
    
 ﻿﻿﻿* Calculate the average for all students and fill into Column E. (Use formula)
@@ -34,7 +39,7 @@ presenting relationships, trends, and inferences that cannot always be clearly d
    
 * Apply filter and sorting to show the best student in this classroom by average.
 
-﻿﻿﻿* Apply filter and sorting to show the best student in this classroom by highest score.
+* Apply filter and sorting to show the best student in this classroom by highest score.
   
 ﻿﻿﻿* Use conditional formatting to clearly identify the highest and lowest average scores
 
